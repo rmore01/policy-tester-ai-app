@@ -1,1 +1,9 @@
 venv/
+.env
+app-copy.py
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+
+.streamlit/secrets.toml
