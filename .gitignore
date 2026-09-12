@@ -1,6 +1,8 @@
 venv/
 .env
 app-copy.py
+policy_tester_complete_updated.py
+policy_tester_complete.py
 .env.*
 !.env.example
 __pycache__/
